@@ -1,0 +1,3 @@
+---
+- src: nholuong.repo-epel
+- src: nholuong.nginx
